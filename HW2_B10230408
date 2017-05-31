@@ -1,2 +1,3 @@
 ### a. 請針對各個參數逐一進行分析，建議先固定某個參數，並逐步選擇最佳評估參數  
 ### c. 請留意binary與multi-class classification在評估上的差異 (Precision/Recall僅適合binary)
+### (1) 哪些屬性對於惡意程式分類有效？  
